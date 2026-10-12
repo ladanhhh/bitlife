@@ -1,5 +1,6 @@
 Easily host on **GitHub Pages**, **Netlify**, **Vercel**, or any static hosting platform.
 
+ How to play:
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/your-username/bitlif.git
